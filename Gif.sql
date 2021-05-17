@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `gift` int(1)  DEFAULT 0;
